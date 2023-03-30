@@ -1,2 +1,2 @@
-# my-portifolio
+# my-portfolio
 using react js
