@@ -2,7 +2,7 @@
   "name": "portfolio1",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://jasonxgilchrist.github.io/myportfolio-light-dark",
+  "homepage": "http://jasonxgilchrist.github.io/my-portfolio",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.5",
