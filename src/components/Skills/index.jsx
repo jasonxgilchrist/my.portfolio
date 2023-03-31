@@ -12,8 +12,6 @@ export default function Skills() {
           <li>C</li>
           <li>Python</li>
           <li>C# .NET</li>
-        </div>
-        <div>
           <strong>Web Technologies</strong>
           <li>HTML, CSS, JS</li>
           <li>React Js</li>
