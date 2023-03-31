@@ -4,10 +4,10 @@ import "./style.css";
 export default function Skills() {
   return (
     <div className="skills">
-      <h1>Languages/Technologies/Skills</h1>
+      <h2>Languages/Technologies/Skills</h2>
       <br />
-      <div className="content">
-        <div>
+      <div className="row content">
+        <div class="col">
           <strong>Programming Languages</strong>
           <li>C</li>
           <li>Python</li>
@@ -17,7 +17,7 @@ export default function Skills() {
           <li>C++</li>
           <li>Java</li>
         </div>
-        <div>
+        <div class="col">
           <strong>Web Technologies</strong>
           <li>HTML</li>
           <li>CSS</li>
@@ -28,7 +28,7 @@ export default function Skills() {
           <li>Express Js</li>
           <li>Mongo DB</li>
         </div>
-        <div>
+        <div class="col">
           <strong>CRM Skills</strong>
           <li>Microsoft Dynamics 365</li>
           <li>Power Apps</li>
