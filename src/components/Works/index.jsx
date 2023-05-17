@@ -10,12 +10,12 @@ export default function Works() {
         <strong>CRM Application Developer</strong> at FINT Solutions
       </p>
       <p>
-        <em>Feb 2022 - Present</em>
+        <em>Feb 2022 - May 2023</em>
       </p>
       <p>
-        For the past 15 months, I've been expertly handling full-scale Cloud and
-        Data migration projects, as well as undertaking entire D365
-        customization at FINT Solutions as a CRM Application Developer.
+        For 15 months, I've been expertly handled full-scale Cloud and Data
+        migration projects, as well as undertaking entire D365 customization at
+        FINT Solutions as a CRM Application Developer.
       </p>
       <br />
       <p>

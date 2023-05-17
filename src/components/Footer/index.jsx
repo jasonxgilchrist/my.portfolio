@@ -4,7 +4,7 @@ export default function Footer() {
   return (
     <footer>
       <a
-        href="https://www.instagram.com/jasonxgilchrist"
+        href="https://www.instagram.com/gilchristvibes"
         target="_blank"
         rel="noreferrer"
       >
@@ -14,7 +14,7 @@ export default function Footer() {
         />
       </a>
       <a
-        href="https://www.facebook.com/jasonxgilchrist"
+        href="https://www.facebook.com/gilchristvibes"
         target="_blank"
         rel="noreferrer"
       >
