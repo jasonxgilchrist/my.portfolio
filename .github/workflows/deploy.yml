@@ -1,4 +1,4 @@
-name: Deploy to Netlify
+name: Deploy to GitHub Pages
 
 on:
   push:
@@ -24,8 +24,8 @@ jobs:
     - name: Build the site
       run: npm run build
 
-    - name: Deploy to Netlify
-      run: netlify deploy --prod --dir=build  # Change 'build' to your build output directory
-      env:
-        NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
-        NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}
+    - name: Deploy to GitHub Pages
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./build  # Change this to your build output directory
