@@ -10,6 +10,7 @@ export default function Works() {
         <strong>CRM Application Developer</strong> at FINT Solutions
       </p>
       <p>
+<<<<<<< HEAD
         <em>Jan 2022 – May 2023</em>
       </p>
       <p>
@@ -26,6 +27,14 @@ export default function Works() {
           <li>Collaborated with the team to identify and resolve bugs, ensuring optimal system performance.</li>
           <li>Performed data analysis to ensure accurate migration and integration.</li>
         </ul>
+=======
+        <em>Feb 2022 - Present</em>
+      </p>
+      <p>
+        For the past 15 months, I've been expertly handling full-scale Cloud and
+        Data migration projects, as well as undertaking entire D365
+        customization at FINT Solutions as a CRM Application Developer.
+>>>>>>> parent of 7e43599 (Updated Work and Social Media details)
       </p>
       <br />
       <p>
