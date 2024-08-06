@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.cbbc3fd6.css",
-    "main.js": "/portfolio/static/js/main.81851291.js",
-    "static/js/453.ead4f9ce.chunk.js": "/portfolio/static/js/453.ead4f9ce.chunk.js",
-    "index.html": "/portfolio/index.html",
-    "main.cbbc3fd6.css.map": "/portfolio/static/css/main.cbbc3fd6.css.map",
-    "main.81851291.js.map": "/portfolio/static/js/main.81851291.js.map",
-    "453.ead4f9ce.chunk.js.map": "/portfolio/static/js/453.ead4f9ce.chunk.js.map"
+    "main.css": "/jasongilchristp.netlify.app/static/css/main.cbbc3fd6.css",
+    "main.js": "/jasongilchristp.netlify.app/static/js/main.8f37fd1f.js",
+    "static/js/453.ead4f9ce.chunk.js": "/jasongilchristp.netlify.app/static/js/453.ead4f9ce.chunk.js",
+    "index.html": "/jasongilchristp.netlify.app/index.html",
+    "main.cbbc3fd6.css.map": "/jasongilchristp.netlify.app/static/css/main.cbbc3fd6.css.map",
+    "main.8f37fd1f.js.map": "/jasongilchristp.netlify.app/static/js/main.8f37fd1f.js.map",
+    "453.ead4f9ce.chunk.js.map": "/jasongilchristp.netlify.app/static/js/453.ead4f9ce.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cbbc3fd6.css",
-    "static/js/main.81851291.js"
+    "static/js/main.8f37fd1f.js"
   ]
 }
